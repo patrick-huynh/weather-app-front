@@ -1,0 +1,36 @@
+.header {
+    margin-top: 16px;
+    margin-bottom: 48px;
+
+    .page-link {
+        color: #888888;
+        margin-right: 16px;
+        text-decoration: none;
+    }
+}
+
+.title {
+    font-size: 50px;
+    margin-bottom: 16px;
+}
+
+
+
+h4 {
+    font-size: 16px;
+}
+
+input {
+    border: 1px solid #cccccc;
+    padding: 8px;
+    font-family: 'Roboto', sans-serif;
+}
+
+button {
+    cursor: pointer;
+    border: 1px solid grey;
+    background: grey;
+    color: rgb(255, 255, 255);
+    padding: 8px;
+    font-family: 'Roboto', sans-serif;
+}
